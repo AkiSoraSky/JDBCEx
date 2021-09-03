@@ -3,7 +3,6 @@ package example;
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.SQLException;
-import java.sql.Statement;
 
 public class Example1 {
     public static void main(String[] args) {
